@@ -10,14 +10,16 @@ This project uses the **EfficientNet-B7** deep learning model for classifying di
 - Visualizations of training and results.
 ## Dataset
 - **Source:** Mention where the dataset came from (e.g., Kaggle, public dataset, etc.).
-- **Size:** Indicate the number of images, categories, and any preprocessing steps.
-- **Link:** If the dataset is publicly available, include the link.
+- **Size:** The dataset contains two batches each with 2400 images of tomatoes for binary and multiclass classification
+- **Link:**(https://data.mendeley.com/datasets/x4s2jz55dx/1).
 ## Results
 - **Accuracy:** Achieved an accuracy of [add your accuracy, e.g., 95%].
 - **Loss:** Final loss value: [add the loss value].
 - **Confusion Matrix:** Add a description or image of the confusion matrix.
 - **Graphs:** Include training and validation accuracy/loss graphs.
-![Training Accuracy](images/training_accuracy.png)
+![Training Accuracy and Validation accuracy](TrainingAccuracypng)
+![Training loss and Validation loss](Traing loss.png)
+
 ## Technology Stack
 - **Programming Language:** Python
 - **Frameworks:** TensorFlow, Keras
@@ -48,15 +50,14 @@ Describe your workflow in steps.
 
 ## Screenshots
 
-Tomato Image
-![Sample Image](images/sample_tomato.png)
 
-### Training Accuracy Graph
-![Accuracy Graph](images/accuracy_graph.png)
+![Output](prediction.png)
+
+
 
 ## Acknowledgements
 
-- Dataset Source: [Dataset Name/Link]
+- Dataset Source:[ [Dataset Name/Link]](https://data.mendeley.com/datasets/x4s2jz55dx/1)
 - Frameworks: TensorFlow and Keras
 - EfficientNet paper: [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946)
 
