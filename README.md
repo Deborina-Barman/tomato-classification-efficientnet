@@ -15,10 +15,10 @@ This project uses the **EfficientNet-B7** deep learning model for classifying di
 ## Results
 - **Accuracy:** Achieved an accuracy of [add your accuracy, e.g., 95%].
 - **Loss:** Final loss value: [add the loss value].
+- ![Training Accuracy and Validation accuracy](https://github.com/Deborina-Barman/tomato-classification-efficientnet/blob/main/Traing%20loss.png)
 - **Confusion Matrix:** Add a description or image of the confusion matrix.
 - ![Confusion Matrix](https://github.com/Deborina-Barman/tomato-classification-efficientnet/blob/main/confusionmatrix.png)
-- **Graphs:** Include training and validation accuracy/loss graphs.
-![Training Accuracy and Validation accuracy]![Training loss and Validation loss]([Traing loss.png](https://github.com/Deborina-Barman/tomato-classification-efficientnet/blob/main/Traing%20loss.png))
+
 
 ## Technology Stack
 - **Programming Language:** Python
