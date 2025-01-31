@@ -9,17 +9,15 @@ This project uses the **EfficientNet-B7** deep learning model for classifying di
 - High accuracy and performance optimization.
 - Visualizations of training and results.
 ## Dataset
-- **Source:** Mention where the dataset came from (e.g., Kaggle, public dataset, etc.).
+- **Source:** Public Dataset.
 - **Size:** The dataset contains two batches each with 2400 images of tomatoes for binary and multiclass classification
 - **Link:**(https://data.mendeley.com/datasets/x4s2jz55dx/1).
 ## Results
-- **Accuracy:** Achieved an accuracy of [add your accuracy, e.g., 95%].
-- **Loss:** Final loss value: [add the loss value].
-- ![Training Accuracy and Validation accuracy](https://github.com/Deborina-Barman/tomato-classification-efficientnet/blob/main/Traing%20loss.png)
+- **Accuracy:** Achieved an accuracy of 98.4%.
+- **Loss:** Final loss value:0.33.
+ ![Training Accuracy and Validation accuracy](https://github.com/Deborina-Barman/tomato-classification-efficientnet/blob/main/Traing%20loss.png)
 - **Confusion Matrix:**The performance of the model was further evaluated using a confusion matrix, which shows how well the model classifies each category.Figure 6 presents the confusion matrix for the test dataset. From this, several important metrics were calculated, including precision, recall, and F1-score, for each class.
-- ![Confusion Matrix](https://github.com/Deborina-Barman/tomato-classification-efficientnet/blob/main/confusionmatrix.png)
-
-
+![Confusion Matrix](https://github.com/Deborina-Barman/tomato-classification-efficientnet/blob/main/confusionmatrix.png)
 ## Technology Stack
 - **Programming Language:** Python
 - **Frameworks:** TensorFlow, Keras
@@ -51,7 +49,7 @@ Describe your workflow in steps.
 ## Screenshots
 
 
-![Output][(prediction.png](https://github.com/Deborina-Barman/tomato-classification-efficientnet/blob/main/prediction.png))
+![Output](https://github.com/Deborina-Barman/tomato-classification-efficientnet/blob/main/prediction.png)
 
 
 
